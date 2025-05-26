@@ -59,12 +59,12 @@
 </head>
 <body>
     <nav>
-        <h1><a href="index.php" class="logo-link">
+        <h1><a href="index.html" class="logo-link">
             <img src="gearnav.jpg" alt="Logo" style="height: 30px; vertical-align: middle; margin-right: 8px;">
             MoneyGear
         </a></h1>
         <ul>
-            <li><a href="index.php">Home</a></li>
+            <li><a href="index.html">Home</a></li>
             <li><a class="active" href="#">Members</a></li>
             <li><a href="aboutus.php">About Us</a></li>
         </ul>
